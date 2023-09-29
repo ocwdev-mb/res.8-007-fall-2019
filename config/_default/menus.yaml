@@ -1,0 +1,68 @@
+leftnav:
+- identifier: f0049b60-c41d-eba9-6503-99cea78e8974
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 10
+- identifier: c94cd5fc-7beb-30c8-579b-9915475af643
+  name: Videos
+  pageRef: /pages/Videos/
+  weight: 20
+- identifier: 88acfb94-6f43-ab41-6a23-058d3396da6a
+  name: '1: Introduction and Overview'
+  pageRef: /pages/Videos/episode1
+  parent: c94cd5fc-7beb-30c8-579b-9915475af643
+  weight: 30
+- identifier: eec27429-acc4-6379-cd61-0dd056ffe62d
+  name: '2: What the Universe is Made Of'
+  pageRef: /pages/Videos/episode2
+  parent: c94cd5fc-7beb-30c8-579b-9915475af643
+  weight: 40
+- identifier: e48836d5-9623-019e-3a68-94b36c1ee1c5
+  name: '3: Early Chemical Evolution'
+  pageRef: /pages/Videos/episode3
+  parent: c94cd5fc-7beb-30c8-579b-9915475af643
+  weight: 50
+- identifier: 62345f6a-a34e-7bed-ec5a-b38d06c01915
+  name: '4: The First Chemical Enrichment Events'
+  pageRef: /pages/Videos/episode4
+  parent: c94cd5fc-7beb-30c8-579b-9915475af643
+  weight: 60
+- identifier: fbbdc769-1d23-2c30-a32f-80e9ef7779ac
+  name: '5: Stellar Archaeology'
+  pageRef: /pages/Videos/episode5
+  parent: c94cd5fc-7beb-30c8-579b-9915475af643
+  weight: 70
+- identifier: 85a9cee2-0f36-49d9-373c-49ae4851702c
+  name: "6: Element Production (Fusion)\u2014Part 1"
+  pageRef: /pages/Videos/episode6
+  parent: c94cd5fc-7beb-30c8-579b-9915475af643
+  weight: 80
+- identifier: 6c842392-b69e-7882-ed15-ba63845a8564
+  name: "7: Element Production (Fusion)\u2014Part 2"
+  pageRef: /pages/Videos/episode7
+  parent: c94cd5fc-7beb-30c8-579b-9915475af643
+  weight: 90
+- identifier: db4cc077-09fd-5d79-e299-288b2897a53b
+  name: '8: Spectroscopy'
+  pageRef: /pages/Videos/episode8
+  parent: c94cd5fc-7beb-30c8-579b-9915475af643
+  weight: 100
+- identifier: d2289056-9c8c-1d4a-b710-113559d8e7b6
+  name: '9: Formation of the Heaviest Elements'
+  pageRef: /pages/Videos/episode9
+  parent: c94cd5fc-7beb-30c8-579b-9915475af643
+  weight: 110
+- identifier: 1cd30558-ca8b-3129-0a02-cf26c8cde827
+  name: '10: Telescopes and Observing'
+  pageRef: /pages/Videos/episode10
+  parent: c94cd5fc-7beb-30c8-579b-9915475af643
+  weight: 120
+- identifier: fd786383-a947-a2e2-2752-08d424883a35
+  name: '11: Summary'
+  pageRef: /pages/Videos/episode11
+  parent: c94cd5fc-7beb-30c8-579b-9915475af643
+  weight: 130
+- identifier: 319e2701-7754-aff6-c952-fe35e37405ac
+  name: Related Resources
+  pageRef: /pages/relatedresources
+  weight: 140
